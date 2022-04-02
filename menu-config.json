@@ -16,5 +16,6 @@
 	},
 	"C++": {
 		"Basic": "templates/c++/basic/"
-	}
+	},
+	"Test": {}
 }
