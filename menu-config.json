@@ -1,0 +1,20 @@
+{
+	"Web": {
+		"Html": {
+			"Html + Css + Js": "templates/web/html/html-css-js/",
+			"Html + Bootstrap": "templates/web/html/html-bootstrap/",
+			"Html + Tailwind": "templates/web/html/html-tailwind/"
+		},
+		"React": {
+			"ReactJS": "$npx create-react-app my-app"
+		}
+	},
+	"Python": {
+		"Flask": "templates/python/flask-basic/",
+		"Pandas": "templates/python/pandas/",
+		"Tkinter": "templates/python/tkinter/"
+	},
+	"C++": {
+		"Basic": "templates/c++/basic/"
+	}
+}
