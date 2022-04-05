@@ -13,7 +13,9 @@
 		"Flask": "templates/python/flask-basic/",
 		"Pandas": "templates/python/pandas/",
 		"Tkinter": "templates/python/tkinter/",
-		"Selenium": "templates/python/selenium/"
+		"Selenium": "templates/python/selenium/",
+		"Website-Scraper": "templates/python/website-scraper/",
+		"Matplotlib": "templates/python/matplotlib/"
 	},
 	"C++": {
 		"Basic": "templates/c++/basic/"
