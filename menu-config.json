@@ -11,6 +11,7 @@
 	},
 	"Python": {
 		"Flask": "templates/python/flask-basic/",
+		"OpenCV": "templates/python/cv2/",
 		"Pandas": "templates/python/pandas/",
 		"Tkinter": "templates/python/tkinter/",
 		"Selenium": "templates/python/selenium/",
