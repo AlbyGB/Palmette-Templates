@@ -20,5 +20,11 @@
 	},
 	"C++": {
 		"Basic": "templates/c++/basic/"
+	},
+	"C#": {
+		"Basic": "templates/c#/basic/"
+	},
+	"Java": {
+		"Basic": "templates/java/basic/"
 	}
 }
